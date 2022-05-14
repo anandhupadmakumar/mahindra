@@ -1,0 +1,766 @@
+*{
+    margin: 0px;
+}
+.mHeader-container{
+    width: 100%;
+    height: 61px;
+    background-color: #e31837;
+    display: flex;
+    z-index: 0;
+    
+   
+    
+   
+   
+}
+.mHeader-inner{
+    width:16px;
+    height: 80px;
+   
+   
+}
+.mHeader-inner-logo-pic{
+    width: 76px;
+    height: 40px;
+    background-color: white;
+   
+  
+  
+   
+    
+    
+    
+}
+.mHeader-inner-logo-pic{
+   padding-top: 20px;
+   padding-left: 100px;
+}
+body{
+    background-color: black;
+}
+.mHeader-nav{
+    width: 1100px;
+    height: 40px;
+    margin-left: 300px;
+    
+    margin-top: 10px;
+    
+    
+}
+.mHeader-nav-list{
+    
+    display: flex;
+    list-style: none; 
+    color: aliceblue;
+    padding-left: 30px;
+    font-size: 15px;
+    font-family: EurostileLTStd;
+    
+    
+}
+.vertical{
+    border-left: 2px solid rgb(148, 147, 147);
+    height: 300px;
+    margin-right: 25px;
+    margin-left: 20px;
+}
+.image-size{
+    width: 20px;
+    height: 20px;
+    margin-bottom: -7px;
+    
+}
+.slider-logo{
+    position: absolute;
+    width:340px ;
+    height: 125px;
+    margin-left: 0px;
+    background-image: url(https://www.mahindra.com/assets/img/mahindra-design.png);
+    background-size: cover;
+    z-index: 0;
+    
+}
+.image-mahindra{
+    width: 72px;
+    height: 30px;
+}
+.inner-slider-logo{
+    margin-left: 31px;
+    margin-top: 13px;
+    width: 50px;
+    height: 30px;
+    z-index: 0;
+   
+}
+.header2-border{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(148, 147, 147);
+   
+}
+.header2-container{
+    
+    width: 100%;
+    height: 40px;
+    background-color: #e31837;
+    display: flex;
+   
+   
+
+}
+.header2-container2{
+    width: 1100px;
+    height: 20px;
+   
+    display: flex;
+    
+
+    list-style: none; 
+    margin-left: 130px;
+    position: relative;
+   margin-bottom: 100px;
+   
+
+}
+.image-size2{
+    width: 15px;
+    height: 15px;
+    margin-bottom: -5px;
+}
+.image-body{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.mahindra.com/assets/cms-images/banner/home-page/thar-nft-desktop.jpg);
+    background-size: cover;
+}
+.inner-image-body{
+    width: 600px;
+    height: 10px;
+    position: relative;
+    padding-top: 100px;
+    padding-left: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    
+    
+    
+}
+.images-container{
+    width: 100%;
+    height: 551px;
+    margin-bottom: 50px;
+    color: white;
+
+}
+.inner-image-body2{
+    width: 600px;
+    height: 100px;
+    padding-top: 40px;
+    padding-left: 70px;
+    color: azure;
+
+    font-family:cursive;
+}
+.body2-letters{
+    padding-left: 70px;
+}
+.arrow-image{
+    width: 80px;
+    height: 80px;
+    z-index: 1;
+    float: right;
+   
+    
+}
+.arrow-image2{
+    width: 80px;
+    height: 80px;
+    float: left;
+  
+   z-index: 1;
+   padding-bottom: 100px;
+   
+
+    
+}
+.description-div2{
+    
+    width: 100%;
+    height: 300px;
+    background-color: #333;
+}
+.paragraph{
+   padding-left: 300px; 
+   padding-top: 40px;
+   font-size: 20px;
+   color: #fff;
+}
+#paragraph{
+    padding-left: 300px; 
+    font-size: 20px;
+    color: #fff;
+
+}
+.paragraph-heading-container{
+    width: 950px;
+    height: 100px;
+   
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.paragraph-heading{
+    padding: 5px;
+    float: left;
+    color: #fff;
+    padding-left: 20px;
+    width: 300px;
+    height: 70px;
+    
+    border-right: 2px rgb(148, 147, 147);
+   border-right-style: solid;
+}
+.heading-padding{
+    padding-top: 10px;
+    color: #e31837;
+    font-size: 30px;
+}
+.achievement-div{
+    margin: 0%;
+    width: 1519px;
+    height: 684px;
+    background-color: rgb(248, 243, 243);
+}
+.achievement-inner{
+    width: 1149px;
+    height: 200px;
+    
+    margin-left: 150px;
+}
+.our-move{
+    
+    text-align: center;
+    padding-top: 20px;
+}
+#our-move-red{
+    text-align: center;
+    padding-top: 20px;
+    color: #e31837;
+    font-size: 42px;
+}
+.achievement-block-pic{
+    width: 228px;
+    height: 269px;
+    background-image: url(https://www.mahindra.com/assets/cms-images/about-us/our-key-achivements/tractor-225X269px.jpg);
+}
+.achievement-block-pic-container{
+    width: 1149px;
+    height: 269px;
+    margin-top: 40px;
+    
+    display: flex;
+    margin-left: 150px;
+
+}
+#achievement-block-pic1{
+    width: 228px;
+    height: 269px;
+    background-image: url(https://www.mahindra.com/assets/cms-images/about-us/our-key-achivements/used-car-225X269px.jpg);
+
+}
+#achievement-block-pic2{
+    width: 228px;
+    height: 269px;
+    background-image: url(https://www.mahindra.com/assets/cms-images/about-us/our-key-achivements/rural-non-banking-225x269px.jpg);
+
+
+}
+#achievement-block-pic3{
+    width: 228px;
+    height: 269px;
+    background-image: url(https://www.mahindra.com/assets/cms-images/about-us/our-key-achivements/logistics-225x269px.jpg);
+
+}
+#achievement-block-pic4{
+    width: 228px;
+    height: 269px;
+    background-image: url(https://www.mahindra.com/assets/cms-images/about-us/our-key-achivements/hospitality%20225x269px.jpg);
+}
+.tractor-heading{
+    color: white;
+    margin-top: 159px;
+    margin-left: 20px;
+}
+.achivement-arrow{
+   margin-left: 680px;
+   margin-top: 100px;
+    display: flex;
+}
+.right-arrow-padding{
+    padding-left: 40px;
+}
+.innovatiion-block-container{
+    width: 100%;
+    height: 680px;
+    background-color: #fff;
+}
+.innovation-inner-container{
+
+    width: 1150px;
+    height: 700px;
+    
+    margin-left: 150px;
+}
+.innovation-header-div{
+    width:700px ;
+    height: 80px;
+    font-size: 40px;
+    
+    margin-left: 300px;
+    padding-top: 20px;
+}
+.black-letters{
+    color: black;
+    font-family:cursive;
+}
+.red-letters{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.innovation-pic-container{
+    width: 1150px;
+    height: 600px;
+    
+    
+}
+.innovation-image-div{
+    width: 1150px;
+    height: 400px;
+    z-index: 2;
+    display: flex;
+    background-color: rgb(234, 228, 228);
+}
+.innovation-description{
+    position: absolute;
+    width: 350px;
+    height: 60px;
+    z-index: 2;
+    margin-left: 500px;
+    margin-top: 30px;
+    background-color: rgb(246, 11, 50);
+    
+}
+.image-innerdiv{
+    padding-top: 20px;
+    padding-left: 55px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bolder;
+
+}
+.horizontal-line-div{
+    position: absolute;
+    width: 80px;
+    height: 4px;
+    background-color: #fff;
+    margin-left: 450px;
+    margin-top: 53px;
+    z-index: 2;
+}
+.innovation-paragraph{
+    width:600px ;
+    height: 100px;
+    margin-top: 100px;
+    font-size: 16px;
+   margin-left: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.how-future-container{
+    margin-top: 50px;
+}
+.futurize-image-container{
+    display: flex;
+}
+.image-inner-futurize{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.image-inner-words{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.focus-area-container{
+    width: 1150px;
+    height: 100px;
+    
+    display: flex;
+}
+.focus-area-inner{
+    width: 611px;
+    height: 100px;
+   
+   
+  
+}
+.focus-word-list{
+    display: flex;
+    
+    padding-right: 150px;
+    text-align: right;
+    list-style: none;
+    word-spacing: 10px;
+    border-spacing: 50px;
+    color: #e31837;
+    
+}
+.focus-heading{
+   margin-left: 200px;
+   margin-top: 10px;
+}
+.padding-focus{
+    padding-left: 30px;
+    
+    float: right;
+}
+.focus-listing{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.focus-word-list1{
+    display: flex;
+    color: #e31837;
+    
+    padding-right: 150px;
+    text-align: right;
+    list-style: none;
+}
+.focus-listing1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.padding-focus1{
+    padding-left: 20px;
+   
+    
+    
+}
+.focus-block-images{
+    width: 539px;
+    height: 100px;
+    background-color: rgb(178, 245, 9);
+}
+.focus-image-size{
+    width: 539px;
+    height: 100px;
+
+}
+.focus-know-more-btn{
+    width: 120px;
+    height: 20px;
+   
+    margin-left: 500px;
+    margin-top:30px ;
+    color: red;
+}
+.compassion-block{
+    width: 1519px;
+    height: 700px;
+    background-color: rgb(215, 214, 214);
+}
+.compassion-image-div{
+    width: 1150px;
+    height: 400px;
+    z-index: 2;
+    display: flex;
+    background-color: rgb(82, 81, 81);
+    color: rgb(211, 208, 208);
+    letter-spacing: 2px;
+
+}
+.image-compassion{
+   margin-top: 50px;
+   float: left;
+   margin-right: 30px;
+
+}
+.compassion-image-padding{
+   position:absolute;
+   float: right;
+   margin-left: 583px;
+   margin-top: 200px;
+
+}
+.compassion-listing{
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.compassion-word-list{
+    display: flex;
+    color: #e31837;
+    
+    padding-right: 123px;
+    text-align: right;
+    list-style: none;
+
+}
+.global-block-container{
+    width: 100%;
+    height: 690px;
+    background-color: #fff;
+
+}
+.global-heading{
+   padding-left: 100px;
+}
+.global-image-div{
+    margin-top: 50px;
+    width: 1200px;
+    height: 497px;
+   
+    margin-left: 153px;
+    
+}
+.global-image-inner-div{
+    color: #fff;
+    margin-left: 46px;
+    margin-top: 161px;
+    position:absolute;
+    width: 360px;
+    height: 238px;
+    background-color: #e62c36;
+    padding: 10px;
+    z-index: 5;
+}
+.horizontal-line-div-global{
+    position: absolute;
+    width: 100px;
+    height: 4px;
+    background-color: #fff;
+    margin-left: 392px;
+    margin-top: 206px;
+    z-index: 5;
+
+
+}
+.global-image-inner-heading1{
+
+    width: 240px;
+    height: 56px;
+    border-bottom: rgb(207, 199, 199);
+   border-bottom-style: groove;
+   margin-left: 30px;
+   margin-top: 26px;
+}
+.global-image-inner-heading2{
+    width: 240px;
+    height: 56px;
+    border-bottom: rgb(207, 199, 199);
+   border-bottom-style: groove;
+   margin-left: 30px;
+   margin-top: 26px;
+
+}
+.global-image-inner-heading3{
+    width: 240px;
+    height: 56px;
+    border-bottom: rgb(207, 199, 199);
+   
+    margin-left: 30px;
+    margin-top: 26px;
+
+}
+.global-image-down-paragraph-container{
+    width: 802px;
+    height: 250px;
+    background-color:#f3f4f5;
+    position: absolute;
+    margin-left: 386px;
+    margin-top: 287px;
+}
+.global-heading{
+    width: 500px;
+    height: 40px;
+  
+}
+.global-heading-description{
+    margin-left: 50px;
+    margin-top: 10px;
+    
+    font-size: 18px;
+    
+}
+.global-paragraph-image-container{
+    width: 752px;
+    height: 148px;
+   
+    margin-left: 50px;
+    margin-top: 10px;
+    display: flex;
+}
+.global-heading-image-container-div{
+    width: 284px;
+    height: 118px;
+    
+    margin-top: 10px;
+    margin-left: 52px;
+    border-top-style: groove;
+    display: flex;
+   
+}
+
+.globe-image-size{
+    width: 50px;
+    height: 50px;
+    padding-top: 20px;
+}
+.globe-image-heading{
+    width: 125px;
+    height: 70px;
+    
+    margin-top: 47px;
+    margin-left: 14px;
+}
+.globe-image-heading-color{
+    color: #e62c36;
+    font-weight: bolder;
+}
+.our-brand-block-container{
+    width: 100%;
+    height: 600px;
+    background-color: #ebecee;
+}
+.our-brand-paragraph{
+    margin-left: 100px;
+    width: 730px;
+    height: 80px;
+    padding-top: 20px;
+}
+.our-brand-heading-move{
+    padding-left: 100px;
+}
+#large-to-rise-padding{
+    text-align: center;
+}
+.our-brand-image-container{
+    margin-top: 200px;
+    width: 1088px;
+    height: 300px;
+   
+    margin-left: 155px;
+    display: flex;
+}
+.our-brand-image-div{
+    width: 300px;
+    height: 300px;
+    background-color:#fff;
+    margin-left: 60px;
+}
+.our-brand-image-size{
+    width: 246px;
+    height: 200px;
+    margin-top: 29px;
+    margin-left: 25px;
+
+}
+.our-brand-image-heading-move{
+    padding-left: 42px;
+    padding-top: 20px;
+}
+.mfooter-container{
+    width: 100%;
+    height: 200px;
+    background-color: #333;
+}
+.mfooter-inner-container{
+    width: 1356px;
+    height: 100px;
+    border-bottom-style: groove;
+    border-bottom-color: rgb(107, 107, 107);
+    
+    margin-left: 79px;
+}
+.mfooter-inner-heading-container{
+    padding-top: 22px;
+    width: 1329px;
+    height: 80px;
+    display: flex;
+   
+}
+.mfooter-inner-heading{
+    margin-left: 5px;
+    width: 117px;
+    height: 15px;
+    border-right-color: rgb(107, 107, 107);
+    border-right-style: groove;
+    border-right-width: 2px;
+    font-size: 11px;
+    color: rgb(193, 189, 189);
+    padding: 12px;
+    
+}
+.mfooter-social-media-container{
+    
+    width: 200px;
+    display: flex;
+    margin-left: 76px;
+
+}
+.mfooter-image-social-media-size{
+    width: 30px;
+    height: 30px;
+}
+.mfooter-social-media-size-container{
+    margin-left: 10px;
+}
+.mfooter-email{
+    width: 500px;
+    height: 30px;
+   color: rgb(193, 189, 189);
+    margin-left: 100px;
+    display: flex;
+}
+.mfooter-email-container{
+    margin-top: 30px;
+    width: 1300px;
+    height: 30px;
+   
+    display: flex;
+
+}
+.mfooter-inner-heading-email-div{
+    margin-left: 5px;
+    width: 117px;
+    height: 5px;
+    border-right-color:  rgb(124, 123, 123);
+    border-right-style: groove;
+    border-right-width: 2px;
+    font-size: 11px;
+    color: rgb(193, 189, 189);
+    padding: 12px;
+
+}
+.mfooter-inner-heading-border-null{
+    margin-left: 5px;
+    width: 117px;
+    height: 15px;
+    border-right-color: rgb(107, 107, 107);
+   
+
+    
+    font-size: 11px;
+    color: rgb(193, 189, 189);
+    padding: 12px;
+
+}
+.mfooter-email-2{
+    width: 500px;
+    height: 30px;
+   color: rgb(193, 189, 189);
+    margin-left: 100px;
+    display: flex;
+    margin-top: -8px;
+
+}
+
